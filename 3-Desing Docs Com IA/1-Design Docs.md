@@ -279,6 +279,3 @@ Em times maduros:
 - Integrar Design Docs ao fluxo de desenvolvimento
 
 ---
-
-Este documento pode ser expandido com templates práticos, exemplos reais e checklists conforme o avanço do MBA.
-gi
